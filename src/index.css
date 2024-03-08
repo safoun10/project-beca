@@ -1,18 +1,48 @@
 @import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 body {
-	font-family: "Dela Gothic One", sans-serif;
+	font-family: "Poppins", sans-serif;
 	margin: 0 auto !important;
 	padding: 0;
 	max-width: 1200px !important;
 	min-width: 320px;
+	color: #1f1f1f;
 	min-height: 100vh;
 }
 
-.px-50 {
-	padding-left: 50px;
-	padding-right: 50px;
+.text-cursive {
+	font-family: "Dela Gothic One", sans-serif !important;
 }
+
+.bg-color-b1 {
+	border-radius: 0 0 140px 0;
+	background: rgb(255, 255, 255);
+	background: linear-gradient(
+		180deg,
+		rgba(255, 255, 255, 1) 0%,
+		rgba(255, 112, 166, 0.1741946778711485) 100%
+	);
+}
+/* 
+.bg-texture{
+	background-image: url("https://i.postimg.cc/MpySFzsY/images.jpg");
+	background-repeat: repeat;
+} */
+
+@media only screen and (min-width: 600px) {
+	.px-50 {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.bg-color-b1 {
+		border-radius: 0 !important;
+	}
+}
+
 /* 
 .bg-dark-banner {
   background-color: rgba(0, 0, 0, 0.768);
