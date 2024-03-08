@@ -1,9 +1,11 @@
+import Banner from "./components/banner/Banner";
+
 function App() {
 	return (
 		<div>
-			<h1>PROJECT BECA</h1>
-			by
-			<h2>Nazwa Khalisha Zivana</h2>
+			<div className="mx-2">
+				<Banner></Banner>
+			</div>
 		</div>
 	);
 }

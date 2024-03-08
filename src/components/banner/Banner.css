@@ -1,0 +1,8 @@
+.banner-bg {
+	min-height: 90vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50px;
+	box-shadow: 0 3px 0 0 #cac3bb;
+}
