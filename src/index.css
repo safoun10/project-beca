@@ -18,11 +18,12 @@ body {
 .bg-color-b1 {
 	border-radius: 0 0 140px 0;
 	background: rgb(255, 255, 255);
-	background: linear-gradient(
-		180deg,
-		rgba(255, 255, 255, 1) 0%,
-		rgba(255, 112, 166, 0.1741946778711485) 100%
-	);
+	background: linear-gradient(180deg, #ffffff 0%, #ff70a62c 100%);
+}
+.bg-color-b2 {
+	border-radius: 0 0 0 140px;
+	background: #ffffff;
+	background: linear-gradient(180deg, #ffffff 0%, #4963b02c 100%);
 }
 /* 
 .bg-texture{
@@ -39,6 +40,9 @@ body {
 
 @media only screen and (max-width: 600px) {
 	.bg-color-b1 {
+		border-radius: 0 !important;
+	}
+	.bg-color-b2 {
 		border-radius: 0 !important;
 	}
 }
