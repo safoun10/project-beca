@@ -1,6 +1,8 @@
+import AboutUs from "./components/aboutUs/AboutUs";
 import Banner from "./components/banner/Banner";
 import BannerTwo from "./components/bannerTwo/BannerTwo";
 import KidsLike from "./components/kidsLike/KidsLike";
+import Para from "./components/para/Para";
 
 function App() {
 	return (
@@ -11,8 +13,12 @@ function App() {
 			<div className="py-5">
 				<KidsLike></KidsLike>
 			</div>
-			<div className="bg-color-b2">
+			<div className="bg-color-b2 mb-5">
 				<BannerTwo></BannerTwo>
+			</div>
+			<div>{/* <Para></Para> */}</div>
+			<div>
+				<AboutUs></AboutUs>
 			</div>
 		</div>
 	);

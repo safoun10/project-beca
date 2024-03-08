@@ -1,0 +1,32 @@
+.card-custom-au {
+	border: 3px solid #3d3d3d2f;
+	border-radius: 120px 0 120px 0;
+	padding: 50px 50px;
+}
+
+.social-card {
+	padding: 15px 50px !important;
+	border-radius: 30px;
+	cursor: pointer;
+	border: 5px solid #29292969;
+	box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+}
+
+.social-card:hover {
+    border: 5px solid transparent;
+	letter-spacing: 3px;
+	background-color: #00a79d;
+	color: #ffffff;
+	box-shadow: #00a79d 0px 7px 29px 0px;
+}
+
+.social-card:active {
+	letter-spacing: 3px;
+	background-color: #00a79d;
+	color: #ffffff;
+	box-shadow: #00a79d 0px 0px 0px 0px;
+	transform: translateY(10px);
+	transition: 100ms;
+}

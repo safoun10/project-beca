@@ -1,0 +1,12 @@
+.para {
+	width: 100%;
+	min-height: 40vh !important;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.para-one {
+	margin: 50px !important;
+}
