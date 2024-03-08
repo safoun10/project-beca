@@ -102,18 +102,18 @@ const AboutUs = () => {
 							target="_blank"
 						>
 							<div className="social-card d-flex justify-content-center align-items-center ">
-								<div className="fs-2 d-flex justify-content-center align-items-center ">
+								<div className="d-flex justify-content-center align-items-center ">
 									<img
 										src="https://i.ibb.co/mJsPXvB/download.png"
 										alt=""
-										className="w-50"
+										className="w-100"
 									/>
 								</div>
 								<div className="fs-5 ps-2"> TOKOPEDIA </div>
 							</div>
 						</a>
 						<a
-							href="http://www.tokopedia.com/beca-journey"
+							href="tel:+6285893588764"
 							className="text-decoration-none text-dark col-5  me-3"
 							target="_blank"
 						>
