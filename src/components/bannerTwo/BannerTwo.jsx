@@ -4,7 +4,7 @@ import "../bannerTwo/BannerTwo.css";
 const Banner = () => {
 	return (
 		<div className="mx-auto banner-bg">
-			<div className="px-50 row align-items-center justify-content-center ">
+			<div className="px-50 row align-items-center justify-content-center w-100">
 				<div className="col-11 col-md-6 mx-auto">
 					<img
 						className="img-fluid bm"

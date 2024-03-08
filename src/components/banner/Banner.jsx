@@ -4,11 +4,11 @@ import "../banner/Banner.css";
 const Banner = () => {
 	return (
 		<div className="mx-auto banner-bg">
-			<div className="px-50 row align-items-center justify-content-center ">
+			<div className="px-50 row align-items-center justify-content-center w-100">
 				<div className="col-11 col-md-6 mx-auto">
 					<div className="edition text-cursive">2024 EDITION</div>
 					<div className="display-5 text-cursive main-line">
-						Designing Digital <br /> Books for kids
+						Designing <br /> Digital Books <br /> for kids
 					</div>
 					<div className="my-3 sub-title">
 						Transforming Traditional Learning with Magnetic Puzzles,
