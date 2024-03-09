@@ -12,7 +12,7 @@ const AboutUs = () => {
 	return (
 		<div className="pt-5 mb-5 card-custom-au">
 			<div className="text-center display-5 text-cursive mb-3 ">
-				FIND <span className="bg-body-secondary px-2">US</span> ON
+				TEMUKAN <span className="bg-body-secondary px-2">KAMI</span> DI
 			</div>
 			<div className="row justify-content-center align-items-center w-100 mx-auto ">
 				<div className="col-11 col-md-4 mx-auto">

@@ -20,7 +20,7 @@ const Banner = () => {
 						Menghadirkan kesenangan dalam belaja1r <br /> melalui
 						pebelajaran interaktif
 					</div>
-					<div className="btn-custom mt-3 fs-6">Learn More</div>
+					<div className="btn-custom mt-3 fs-6">Mengetuhui Lebih</div>
 				</div>
 			</div>
 		</div>
