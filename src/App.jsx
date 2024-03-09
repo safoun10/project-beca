@@ -5,6 +5,7 @@ import BannerTwo from "./components/bannerTwo/BannerTwo";
 import KidsLike from "./components/kidsLike/KidsLike";
 import Para from "./components/para/Para";
 import Products from "./components/products/Products";
+import VisionNMission from "./components/visionNMission/VisionNMission";
 
 function App() {
 	return (
@@ -21,6 +22,10 @@ function App() {
 			<div>{/* <Para></Para> */}</div>
 			<div>
 				<AboutBeca></AboutBeca>
+			</div>
+			<hr />
+			<div>
+				<VisionNMission></VisionNMission>
 			</div>
 			<div>
 				<Products></Products>

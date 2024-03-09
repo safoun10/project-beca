@@ -12,7 +12,7 @@ const Products = () => {
 		<div>
 			<hr />
 			<div className="display-5 text-cursive text-center py-4">
-				Why choosing us ?
+				Kelebiahan buku BECA ?
 			</div>
 			<hr />
 			<div className="mb-5">
@@ -32,11 +32,10 @@ const Products = () => {
 						}}
 					>
 						<div>
-							<div className="fs-2 text-cursive pb-3">BUKU !</div>
-							<div>
-								Buku kami menawarkan pengalaman belajar unik
-								yang memadukan pembelajaran dan bermain.
+							<div className="fs-2 text-cursive pb-3">
+								PUZZLE MAGNET !
 							</div>
+							<div>Terdapat puzzle magnet angka dan huruf</div>
 						</div>
 					</VerticalTimelineElement>
 					<VerticalTimelineElement
@@ -48,7 +47,6 @@ const Products = () => {
 						contentArrowStyle={{
 							borderRight: "7px solid  rgb(255, 193, 7)",
 						}}
-						date="🚀🚀"
 						iconStyle={{
 							background: "rgb(255, 193, 7)",
 							color: "#fff",
@@ -56,11 +54,10 @@ const Products = () => {
 					>
 						<div>
 							<div className="fs-2 text-cursive pb-3">
-								TUJUAN !
+								REKAMAN SUARA !
 							</div>
 							<div>
-								Hal ini bertujuan untuk membuat pembelajaran
-								lebih menarik dibandingkan metode tradisional
+								Terdapat rekaman suara pada section membaca
 							</div>
 						</div>
 					</VerticalTimelineElement>
@@ -77,14 +74,14 @@ const Products = () => {
 							background: "rgb(33, 37, 41)",
 							color: "#fff",
 						}}
-						date="🤩🤩"
 					>
 						<div>
-							<div className="fs-2 text-cursive pb-3">SERU !</div>
+							<div className="fs-2 text-cursive pb-3">
+								VISUALIASI !
+							</div>
 							<div>
-								BECA menggabungkan aktivitas menyenangkan
-								seperti teka-teki huruf dan angka magnetik untuk
-								latihan membaca dan berhitung.
+								Teradapa gambar kreatif penunjang visualisasi
+								konsep
 							</div>
 						</div>
 					</VerticalTimelineElement>
@@ -97,7 +94,6 @@ const Products = () => {
 						contentArrowStyle={{
 							borderRight: "7px solid  rgb(255, 193, 7)",
 						}}
-						date="📖"
 						iconStyle={{
 							background: "rgb(255, 193, 7)",
 							color: "#fff",
@@ -105,120 +101,19 @@ const Products = () => {
 					>
 						<div>
 							<div className="fs-2 text-cursive pb-3">
-								MEMPELAJARI !
+								BAHAN KERTAS !
 							</div>
 							<div>
-								Belajar menulis bersifat interaktif dengan
-								kertas film matte dan karton tebal untuk
-								menjiplak gambar.
+								Kertas dilapisi film matte yang dapat di tulis
+								berulang kali
 							</div>
 						</div>
 					</VerticalTimelineElement>
-					<VerticalTimelineElement
-						className="vertical-timeline-element--work"
-						contentStyle={{
-							background: "rgb(33, 37, 41)",
-							color: "#fff",
-						}}
-						contentArrowStyle={{
-							borderRight: "7px solid  rgb(33, 37, 41)",
-						}}
-						iconStyle={{
-							background: "rgb(33, 37, 41)",
-							color: "#fff",
-						}}
-						date="🔥🔥"
-					>
-						<div>
-							<div className="fs-2 text-cursive pb-3">LAGI !</div>
-							<div>
-								Tulisan yang dapat dihapus memungkinkan adanya
-								kesalahan dan perbaikan.
-							</div>
-						</div>
-					</VerticalTimelineElement>
-					<VerticalTimelineElement
-						className="vertical-timeline-element--work"
-						contentStyle={{
-							background: "rgb(255, 193, 7)",
-							color: "rgb(33, 37, 41)",
-						}}
-						contentArrowStyle={{
-							borderRight: "7px solid  rgb(255, 193, 7)",
-						}}
-						date="📱"
-						iconStyle={{
-							background: "rgb(255, 193, 7)",
-							color: "#fff",
-						}}
-					>
-						<div>
-							<div className="fs-2 text-cursive pb-3">
-								EBUKU !
-							</div>
-							<div>
-								Video e-book dengan animasi huruf dan angka
-								dapat diakses melalui kode QR.
-							</div>
-						</div>
-					</VerticalTimelineElement>
-					<VerticalTimelineElement
-						className="vertical-timeline-element--work"
-						contentStyle={{
-							background: "rgb(33, 37, 41)",
-							color: "#fff",
-						}}
-						contentArrowStyle={{
-							borderRight: "7px solid  rgb(33, 37, 41)",
-						}}
-						iconStyle={{
-							background: "rgb(33, 37, 41)",
-							color: "#fff",
-						}}
-						date="😲😲"
-					>
-						<div>
-							<div className="fs-2 text-cursive pb-3">
-								MENARIK !
-							</div>
-							<div>
-								Tombol suara memutar lagu {" '"}Belajar
-								Mengenali Huruf dan Angka{"' "} yang catchy.
-							</div>
-						</div>
-					</VerticalTimelineElement>
-					<VerticalTimelineElement
-						className="vertical-timeline-element--work"
-						contentStyle={{
-							background: "rgb(255, 193, 7)",
-							color: "rgb(33, 37, 41)",
-						}}
-						contentArrowStyle={{
-							borderRight: "7px solid  rgb(255, 193, 7)",
-						}}
-						date="👦👧"
-						iconStyle={{
-							background: "rgb(255, 193, 7)",
-							color: "#fff",
-						}}
-					>
-						<div>
-							<div className="fs-2 text-cursive pb-3">
-								MASCOT !
-							</div>
-							<div>
-								BECA bahkan menampilkan maskot yang menarik bagi
-								anak laki-laki dan perempuan.
-							</div>
-						</div>
-					</VerticalTimelineElement>
-
 					<VerticalTimelineElement
 						iconStyle={{
 							background: "rgb(33, 37, 41)",
 							color: "#fff",
 						}}
-						// icon={<StarIcon />}
 					/>
 				</VerticalTimeline>
 			</div>
