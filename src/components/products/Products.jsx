@@ -15,7 +15,7 @@ const Products = () => {
 				Why choosing us ?
 			</div>
 			<hr />
-			<div>
+			<div className="mb-5">
 				<VerticalTimeline>
 					<VerticalTimelineElement
 						className="vertical-timeline-element--work"
@@ -77,6 +77,7 @@ const Products = () => {
 							background: "rgb(33, 37, 41)",
 							color: "#fff",
 						}}
+						date="🤩🤩"
 					>
 						<div>
 							<div className="fs-2 text-cursive pb-3">SERU !</div>
@@ -96,7 +97,7 @@ const Products = () => {
 						contentArrowStyle={{
 							borderRight: "7px solid  rgb(255, 193, 7)",
 						}}
-						date="🚀🚀"
+						date="📖"
 						iconStyle={{
 							background: "rgb(255, 193, 7)",
 							color: "#fff",
@@ -126,6 +127,7 @@ const Products = () => {
 							background: "rgb(33, 37, 41)",
 							color: "#fff",
 						}}
+						date="🔥🔥"
 					>
 						<div>
 							<div className="fs-2 text-cursive pb-3">LAGI !</div>
@@ -144,7 +146,7 @@ const Products = () => {
 						contentArrowStyle={{
 							borderRight: "7px solid  rgb(255, 193, 7)",
 						}}
-						date="🚀🚀"
+						date="📱"
 						iconStyle={{
 							background: "rgb(255, 193, 7)",
 							color: "#fff",
@@ -173,6 +175,7 @@ const Products = () => {
 							background: "rgb(33, 37, 41)",
 							color: "#fff",
 						}}
+						date="😲😲"
 					>
 						<div>
 							<div className="fs-2 text-cursive pb-3">
@@ -180,7 +183,7 @@ const Products = () => {
 							</div>
 							<div>
 								Tombol suara memutar lagu {" '"}Belajar
-								Mengenali Huruf dan Angka {" '"} yang catchy.
+								Mengenali Huruf dan Angka{"' "} yang catchy.
 							</div>
 						</div>
 					</VerticalTimelineElement>
@@ -193,7 +196,7 @@ const Products = () => {
 						contentArrowStyle={{
 							borderRight: "7px solid  rgb(255, 193, 7)",
 						}}
-						date="🚀🚀"
+						date="👦👧"
 						iconStyle={{
 							background: "rgb(255, 193, 7)",
 							color: "#fff",
@@ -212,7 +215,7 @@ const Products = () => {
 
 					<VerticalTimelineElement
 						iconStyle={{
-							background: "rgb(16, 204, 82)",
+							background: "rgb(33, 37, 41)",
 							color: "#fff",
 						}}
 						// icon={<StarIcon />}
