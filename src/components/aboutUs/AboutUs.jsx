@@ -106,7 +106,7 @@ const AboutUs = () => {
 									<img
 										src="https://i.ibb.co/mJsPXvB/download.png"
 										alt=""
-										className="w-100"
+										className="tokopedia"
 									/>
 								</div>
 								<div className="fs-5 ps-2"> TOKOPEDIA </div>
