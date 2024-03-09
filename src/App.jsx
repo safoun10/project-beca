@@ -1,3 +1,4 @@
+import AboutBeca from "./components/aboutBeca/AboutBeca";
 import AboutUs from "./components/aboutUs/AboutUs";
 import Banner from "./components/banner/Banner";
 import BannerTwo from "./components/bannerTwo/BannerTwo";
@@ -17,6 +18,9 @@ function App() {
 				<BannerTwo></BannerTwo>
 			</div>
 			<div>{/* <Para></Para> */}</div>
+			<div>
+				<AboutBeca></AboutBeca>
+			</div>
 			<div>
 				<AboutUs></AboutUs>
 			</div>
