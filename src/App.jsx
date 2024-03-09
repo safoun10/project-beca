@@ -4,6 +4,7 @@ import Banner from "./components/banner/Banner";
 import BannerTwo from "./components/bannerTwo/BannerTwo";
 import KidsLike from "./components/kidsLike/KidsLike";
 import Para from "./components/para/Para";
+import Products from "./components/products/Products";
 
 function App() {
 	return (
@@ -20,6 +21,9 @@ function App() {
 			<div>{/* <Para></Para> */}</div>
 			<div>
 				<AboutBeca></AboutBeca>
+			</div>
+			<div>
+				<Products></Products>
 			</div>
 			<div>
 				<AboutUs></AboutUs>
