@@ -14,13 +14,13 @@ const Banner = () => {
 				</div>
 				<div className="col-11 col-md-6 mx-auto text-end ">
 					<div className="display-5 text-cursive main-line">
-						Learning with <br /> Playful Adventures
+						Belajar Calistung Yang Menyenangkan
 					</div>
 					<div className="my-3 sub-title">
-						Bringing Joy and Engagement to Education through
-						Interactive Games, E-books, and Mascots
+						Menghadirkan kesenangan dalam belaja1r <br /> melalui
+						pebelajaran interaktif
 					</div>
-					<div className="btn-custom mt-3 fs-6">Learn More</div>
+					<div className="btn-custom mt-3 fs-6">Mengetuhui Lebih</div>
 				</div>
 			</div>
 		</div>

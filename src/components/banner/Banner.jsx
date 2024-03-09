@@ -8,13 +8,13 @@ const Banner = () => {
 				<div className="col-11 col-md-6 mx-auto">
 					<div className="edition text-cursive">2024 EDITION</div>
 					<div className="display-5 text-cursive main-line">
-						Designing <br /> Digital Books <br /> for kids
+						Merancang Buku Calistung Untuk Anak-Anak
 					</div>
 					<div className="my-3 sub-title">
-						Transforming Traditional Learning with Magnetic Puzzles,
-						Interactive Writing, and Animated Pronunciations
+						Inovasi buku Calistung yang berbada dari buku Calistung
+						terdahulu
 					</div>
-					<div className="btn-custom mt-3 fs-6">Learn More</div>
+					<div className="btn-custom mt-3 fs-6">Mengetuhui Lebih</div>
 				</div>
 				<div className="col-11 col-md-6 mx-auto">
 					<img
