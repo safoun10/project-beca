@@ -17,8 +17,8 @@ const Banner = () => {
 						Belajar Calistung Yang Menyenangkan
 					</div>
 					<div className="my-3 sub-title">
-						Menghadirkan kesenangan dalam belaja1r <br /> melalui
-						pebelajaran interaktif
+						Menghadirkan kesenangan dalam belajar <br /> melalui
+						pembelajaran interaktif
 					</div>
 					<div className="btn-custom mt-3 fs-6">Mengetuhui Lebih</div>
 				</div>

@@ -29,10 +29,12 @@ const AboutBeca = () => {
 						tulisan tersebut bisa dihapus kembali. Melampirkan kode
 						QR di dalamnya terdapat e-book vidio pelafalan huruf dan
 						angka dalam bentuk animasi. Difasilitasi tombol suara
-						yang berisi lagu Belajar Mengenal Huruf dan Angka.
-						Terdapat juga Maskot anak laki-laki dan anak perempuan.
-						Buku ini mendukung SDGs ke 4 yaitu tentang Quality
-						Education Target 4.6 literasi dan numerasi universal
+						yang terletak pada section membaca bertema keluarga agar
+						anak-anak dapat mengenal huruf dan angka mengenai huruf
+						dan angka Mengenal Huruf dan Angka. Terdapat juga Maskot
+						anak laki-laki dan anak perempuan. Buku ini mendukung
+						SDGs ke 4 yaitu tentang Quality Education Target 4.6
+						literasi dan numerasi universal
 					</div>
 				</div>
 				<div className="col-11 col-md-4 mx-auto d-flex justify-content-center align-items-center ">

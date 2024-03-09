@@ -11,10 +11,12 @@ const Banner = () => {
 						Merancang Buku Calistung Untuk Anak-Anak
 					</div>
 					<div className="my-3 sub-title">
-						Inovasi buku Calistung yang berbada dari buku Calistung
+						Inovasi buku Calistung yang berbeda dari buku Calistung
 						terdahulu
 					</div>
-					<div className="btn-custom mt-3 fs-6">Mengetuhui Lebih</div>
+					<div className="btn-custom mt-3 fs-6">
+						Pelajari Lebih lanjut
+					</div>
 				</div>
 				<div className="col-11 col-md-6 mx-auto">
 					<img
